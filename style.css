@@ -75,7 +75,9 @@ section .contentBx{
     font-size: 18px;
     color: #fff;
 }
-
+.contentPP p a{
+    color: #64B5F6;
+}
 section .contentBx h2{
      font-size: 60px;
      color:#fff;
